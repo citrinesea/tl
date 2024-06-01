@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title></title>
+    <link>https://citrinesea.github.io/tl/</link>
+    
+    <image>
+      <url>https://citrinesea.github.io/tl/icon.png</url>
+      <title></title>
+      <link>https://citrinesea.github.io/tl/</link>
+    </image>
+    
+    <atom:link href="https://citrinesea.github.io/tl/rss.xml" rel="self" type="application/rss+xml"/>
+    
+    <description></description>
+    <pubDate>Sat, 01 Jun 2024 03:02:12 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>b</title>
+      <link>https://citrinesea.github.io/tl/post/b/</link>
+      <guid>https://citrinesea.github.io/tl/post/b/</guid>
+      <pubDate>Sat, 01 Jun 2024 03:02:12 GMT</pubDate>
+      
+      
+      
+      
+      
+      
+      <comments>https://citrinesea.github.io/tl/post/b/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Many Minds, One Flower</title>
+      <link>https://citrinesea.github.io/tl/many_minds_one_flower/</link>
+      <guid>https://citrinesea.github.io/tl/many_minds_one_flower/</guid>
+      <pubDate>Sat, 01 Jun 2024 02:50:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description> &lt;head&gt;
+   &lt;meta charset=&quot;utf-8&quot;&gt;
+   &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot;&gt;
+   &lt;title&gt;Many Minds One Flower |</description>
+          
+        
+      
+      
+      
+      
+      
+      
+      <comments>https://citrinesea.github.io/tl/many_minds_one_flower/#disqus_thread</comments>
+      
+    </item>
+    
+  </channel>
+</rss>
